@@ -153,7 +153,7 @@ Static procedures to analyze encrypted files and derive the XOR key used for enc
 Created by **Omega Slender**
 
 💬 Connect with me:
-[🌳 Linktree](https://linktr.ee/omega_slender)
+[Linktree](https://linktr.ee/omega_slender)
 
 ☕ Support the project:
 [Ko-fi](https://ko-fi.com/omega_slender)
@@ -165,3 +165,4 @@ This project is based on the work of [Petschko](https://gitlab.com/Petschko/RPG-
 ---
 
 ⭐ If you find this library useful, consider giving it a star!
+
