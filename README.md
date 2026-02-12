@@ -22,7 +22,7 @@ While **No-Key Decryption** is available, it is **strongly recommended** to use 
 ### 🔌 Core Functionality
 - **Key-Based Decryption** 🔐: Decrypt files using a known 16-byte hex key.
 - **No-Key Decryption** 🔓: Restore files without a key by reconstructing standard file headers.
-- **Format Support** 📄: Full support for encrypted PNG images (`.rpgmvp`, `.png_`) and OGG/M4A audio (`.rpgmvo`, `.ogg_`, `.rpgmvm`, `.m4a_`).
+- **Format Support** 📄: Full support for encrypted PNG images and OGG/M4A audio.
 
 ### 🎨 Smart Features
 - **Auto Key Recovery** 🕵️: Automatically extract encryption keys from encrypted images or audio files.
@@ -165,4 +165,5 @@ This project is based on the work of [Petschko](https://gitlab.com/Petschko/RPG-
 ---
 
 ⭐ If you find this library useful, consider giving it a star!
+
 
